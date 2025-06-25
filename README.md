@@ -58,7 +58,7 @@ The **Flowchart Evaluator** is a key module of the [`VteacH`](https://github.com
 ### 1. Clone the Repo
 
 ```
-git clone https://github.com/manideepakgampa/FlowChartEvaluator.git
+git clone https://github.com/theGnaNtechHub/FlowChartEvaluator.git
 cd FlowChartEvaluator
 ```
 
