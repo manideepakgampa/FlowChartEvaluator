@@ -7,9 +7,10 @@
 
 ## 🚀 What is this?
 
-The **Flowchart Evaluator** is a key module of the [`VteacH`](https://github.com/manideepakgampa/ELearn) learning platform by **theGnaN**. It allows students to build logic flows using visual blocks, simulate the logic, detect errors, and (eventually) convert flowcharts into pseudo-code — bridging the gap between thinking and programming.
+The **Flowchart Evaluator** is a key module of the [`VteacH`](https://github.com/theGnaNtechHub/VteacH) learning platform by **theGnaN**. It allows students to build logic flows using visual blocks, simulate the logic, detect errors, and (eventually) convert flowcharts into pseudo-code — bridging the gap between thinking and programming.
 
 ### 🌟 Core Highlights
+
 - 🧩 **Drag-and-drop flowchart builder**
 - 🛠️ **Real-time logic validation**
 - ⚠️ **Flow & structure error detection**
@@ -29,26 +30,25 @@ The **Flowchart Evaluator** is a key module of the [`VteacH`](https://github.com
 
 ## 🛠️ Tech Stack
 
-| Layer      | Technology               |
-|------------|---------------------------|
-| Frontend   | React.js, Tailwind CSS    |
-| Logic Engine | Custom-built Flow Validator (JS) |
-| Canvas UI  | React Flow / Konva / Custom (modular setup) |
+| Layer        | Technology                                  |
+| ------------ | ------------------------------------------- |
+| Frontend     | React.js, Tailwind CSS                      |
+| Logic Engine | Custom-built Flow Validator (JS)            |
+| Canvas UI    | React Flow / Konva / Custom (modular setup) |
 
 > 🧠 Logic checking is fully frontend-driven for the MVP. Future versions will sync with pseudo-code via backend API (FastAPI).
 
-
 ## 📐 Key Functionalities
 
-| Feature                  | Status    |
-|--------------------------|-----------|
-| Drag-and-drop nodes      | ✅ Done   |
-| Connectors (edges/paths) | ✅ Done   |
-| Error validation         | ✅ MVP    |
-| Save/load diagrams       | 🔲 Coming |
-| Convert to pseudo-code   | 🔲 Phase 2 |
+| Feature                  | Status      |
+| ------------------------ | ----------- |
+| Drag-and-drop nodes      | ✅ Done     |
+| Connectors (edges/paths) | ✅ Done     |
+| Error validation         | ✅ MVP      |
+| Save/load diagrams       | 🔲 Coming   |
+| Convert to pseudo-code   | 🔲 Phase 2  |
 | Real-time sync           | 🔲 Optional |
-| Zoom / Pan               | ✅ Basic  |
+| Zoom / Pan               | ✅ Basic    |
 | Export flowchart         | 🔲 Optional |
 
 ---
@@ -61,14 +61,19 @@ The **Flowchart Evaluator** is a key module of the [`VteacH`](https://github.com
 git clone https://github.com/manideepakgampa/FlowChartEvaluator.git
 cd FlowChartEvaluator
 ```
+
 2. Install Dependencies
+
 ```
 npm install
 ```
+
 3. Start the Dev Server
+
 ```
 npm run dev
 ```
+
 App will run locally at http://localhost:5173 (default Vite port).
 
 🧪 Testing (WIP)
@@ -83,7 +88,9 @@ Execution simulation
 ```
 npm run test
 ```
+
 ✨ Future Enhancements
+
 - Convert flowchart to structured pseudo-code
 
 - Add more logical shapes (Input, Output, Subroutine)
@@ -93,6 +100,7 @@ npm run test
 - Multi-step debugging mode
 
 🧠 Educational Focus
+
 - This module helps students:
 
 - Understand flow before writing code
@@ -108,7 +116,7 @@ We welcome improvements, ideas, and pull requests!
 
 🔍 Found a bug? Open an issue
 
-🧠 Want to improve logic detection? 
+🧠 Want to improve logic detection?
 
 🎨 Suggest UI/UX tweaks? Fork and submit PRs
 
@@ -127,4 +135,3 @@ MIT License — open to fork, remix, and expand with attribution.
 🙌 Credits
 Crafted with care by the theGnaN team.
 Maintained by: @gmanideepak and contributors.
-
