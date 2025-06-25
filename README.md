@@ -126,12 +126,12 @@ New? Check our CONTRIBUTING guide (coming soon)
 MIT License — open to fork, remix, and expand with attribution.
 
 🔗 Project Links
-🌐 Main Platform: [`VteacH`](https://github.com/manideepakgampa/ELearn)
+👨‍🏫 Part Of theGnaN : [`VteacH`](https://github.com/theGnaNtechHub/VteacH)
 
-👨‍🏫 theGnaN Official: https://thegnan.in
+🌐 [`theGnaN Official Website`](https://www.thegnan.in)
 
 💬 Feedback? Open an Issue
 
 🙌 Credits
 Crafted with care by the theGnaN team.
-Maintained by: @gmanideepak and contributors.
+Maintained by: @manideepakgampa and contributors.
