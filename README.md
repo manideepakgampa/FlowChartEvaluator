@@ -123,6 +123,7 @@ We welcome improvements, ideas, and pull requests!
 New? Check our CONTRIBUTING guide (coming soon)
 
 📄 License
+
 MIT License — open to fork, remix, and expand with attribution.
 
 🔗 Project Links
